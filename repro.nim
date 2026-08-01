@@ -21,6 +21,20 @@ provisioningFor "cmake":
     nixpkgsRev = "addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
     nixpkgsNarHash = "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8="
 
+provisioningFor "llvm":
+  interfaceFingerprint "dd6e7be1a7e5636cd6cba71c030bc146d0122f1b923cf5de6a07905f01600aca"
+  contributor "github:metacraft-labs/reprobuild-nix-packages"
+  nixPackage "nixpkgs#llvm.dev", executablePath = "bin/llvm-config",
+    nixpkgsRev = "addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+    nixpkgsNarHash = "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8="
+
+provisioningFor "patchelf":
+  interfaceFingerprint "8624ebb93d257db8909d0c467641ec3c0eaac2e3a6bbbe131824219d97eab0a8"
+  contributor "github:metacraft-labs/reprobuild-nix-packages"
+  nixPackage "nixpkgs#patchelf", executablePath = "bin/patchelf",
+    nixpkgsRev = "addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+    nixpkgsNarHash = "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8="
+
 package reprobuildNixPackages:
   devEnv:
     task "test",
