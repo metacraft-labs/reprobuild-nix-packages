@@ -1,4 +1,11 @@
 import repro_project_dsl
+# Register the owning interfaces in direct recipe extraction too. The test
+# imports used to hide this requirement; the CLI otherwise saw only host stubs.
+import repro_dsl_stdlib/packages/bash
+import repro_dsl_stdlib/packages/cmake
+import "../reprobuild-packages/packages/interfaces/busybox/repro" as busyboxInterface
+import "../reprobuild-packages/packages/interfaces/llvm/repro" as llvmInterface
+import "../reprobuild-packages/packages/interfaces/patchelf/repro" as patchelfInterface
 
 provisioningFor "bash":
   interfaceFingerprint "8ee476ea70e3fe6e6ff11cf09fbd7ab9d16290a0c69b74b80620ce952634dc99"
