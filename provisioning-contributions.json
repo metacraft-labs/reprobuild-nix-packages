@@ -1,0 +1,156 @@
+{
+  "format": "repro.provisioning-contributions",
+  "schemaVersion": 1,
+  "contributions": [
+    {
+      "targetPackage": "bash",
+      "targetInterfaceFingerprint": "8ee476ea70e3fe6e6ff11cf09fbd7ab9d16290a0c69b74b80620ce952634dc99",
+      "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+      "developInterface": false,
+      "nixProvisioning": [
+        {
+          "packageName": "bash",
+          "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+          "selector": "nixpkgs#bash",
+          "executablePath": "bin/bash",
+          "expressionFile": "",
+          "nixpkgsRef": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsRev": "addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
+          "packageId": "nixpkgs#bash",
+          "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#bash",
+          "location": {
+            "file": "repro.nim",
+            "line": 13
+          }
+        }
+      ],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "location": {
+        "file": "repro.nim",
+        "line": 10
+      }
+    },
+    {
+      "targetPackage": "busybox",
+      "targetInterfaceFingerprint": "5c65917bef060839c80d8e276c91287ea64721741eb329b0eae225d30b71a57a",
+      "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+      "developInterface": false,
+      "nixProvisioning": [
+        {
+          "packageName": "busybox",
+          "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+          "selector": "nixpkgs#busybox",
+          "executablePath": "bin/busybox",
+          "expressionFile": "",
+          "nixpkgsRef": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsRev": "addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
+          "packageId": "nixpkgs#busybox",
+          "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#busybox",
+          "location": {
+            "file": "repro.nim",
+            "line": 20
+          }
+        }
+      ],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "location": {
+        "file": "repro.nim",
+        "line": 17
+      }
+    },
+    {
+      "targetPackage": "cmake",
+      "targetInterfaceFingerprint": "60173785f5b07d1afe3e590f16eb227c8dd3f2c17cea0b5c8ddd71866ca86265",
+      "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+      "developInterface": false,
+      "nixProvisioning": [
+        {
+          "packageName": "cmake",
+          "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+          "selector": "nixpkgs#cmake",
+          "executablePath": "bin/cmake",
+          "expressionFile": "",
+          "nixpkgsRef": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsRev": "addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
+          "packageId": "nixpkgs#cmake",
+          "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#cmake",
+          "location": {
+            "file": "repro.nim",
+            "line": 27
+          }
+        }
+      ],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "location": {
+        "file": "repro.nim",
+        "line": 24
+      }
+    },
+    {
+      "targetPackage": "llvm",
+      "targetInterfaceFingerprint": "a2bff9c457ff603d27320da38a1333de0780dda98aa8eafb4c7f6d759076ba2c",
+      "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+      "developInterface": false,
+      "nixProvisioning": [
+        {
+          "packageName": "llvm",
+          "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+          "selector": "nixpkgs#llvm.dev",
+          "executablePath": "bin/llvm-config",
+          "expressionFile": "",
+          "nixpkgsRef": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsRev": "addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
+          "packageId": "nixpkgs#llvm.dev",
+          "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#llvm.dev",
+          "location": {
+            "file": "repro.nim",
+            "line": 34
+          }
+        }
+      ],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "location": {
+        "file": "repro.nim",
+        "line": 31
+      }
+    },
+    {
+      "targetPackage": "patchelf",
+      "targetInterfaceFingerprint": "c07f348008540a694670347e4dc27318b953f3582c5412a896b05f4513e13e95",
+      "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+      "developInterface": false,
+      "nixProvisioning": [
+        {
+          "packageName": "patchelf",
+          "contributor": "github:metacraft-labs/reprobuild-nix-packages",
+          "selector": "nixpkgs#patchelf",
+          "executablePath": "bin/patchelf",
+          "expressionFile": "",
+          "nixpkgsRef": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsRev": "addf7cf5f383a3101ecfba091b98d0a1263dc9b8",
+          "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
+          "packageId": "nixpkgs#patchelf",
+          "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#patchelf",
+          "location": {
+            "file": "repro.nim",
+            "line": 41
+          }
+        }
+      ],
+      "tarballProvisioning": [],
+      "scoopProvisioning": [],
+      "location": {
+        "file": "repro.nim",
+        "line": 38
+      }
+    }
+  ]
+}
