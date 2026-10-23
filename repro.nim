@@ -202,6 +202,7 @@ import "../reprobuild-packages/packages/interfaces/patchelf/repro" as patchelfIn
 import "../reprobuild-packages/packages/interfaces/pgadmin/repro" as pgadminInterface
 import "../reprobuild-packages/packages/interfaces/pinentry/repro" as pinentryInterface
 import "../reprobuild-packages/packages/interfaces/psmisc/repro" as psmiscInterface
+import "../reprobuild-packages/packages/interfaces/pwsh/repro" as pwshInterface
 import "../reprobuild-packages/packages/interfaces/qemu-user/repro" as qemuUserInterface
 import "../reprobuild-packages/packages/interfaces/qiling/repro" as qilingInterface
 import "../reprobuild-packages/packages/interfaces/radare2/repro" as radare2Interface
@@ -1465,6 +1466,13 @@ provisioningFor "psmisc":
   interfaceFingerprint "4e5e1cc57b9b23c340343e7e01c85ddb011352c95fb5ac651eec77cc82bd87c3"
   contributor "github:metacraft-labs/reprobuild-nix-packages"
   nixPackage "nixpkgs#psmisc", executablePath = "bin/killall",
+    nixpkgsRev = CanonicalNixpkgsRev,
+    nixpkgsNarHash = CanonicalNixpkgsNarHash
+
+provisioningFor "pwsh":
+  interfaceFingerprint "ef3fbe6c41e670cc3ecf74d0798dfe6e71e05f98119bd130a7c315460f00f629"
+  contributor "github:metacraft-labs/reprobuild-nix-packages"
+  nixPackage "nixpkgs#powershell", executablePath = "bin/pwsh",
     nixpkgsRev = CanonicalNixpkgsRev,
     nixpkgsNarHash = CanonicalNixpkgsNarHash
 

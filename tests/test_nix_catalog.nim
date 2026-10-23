@@ -3,6 +3,7 @@ import std/[json, os, sequtils, strutils, unittest]
 import repro_interface_artifacts
 import repro_interface_artifacts/contribution_records
 import repro_project_dsl
+import repro_dsl_stdlib/nixpkgs_pin
 import repro_dsl_stdlib/packages/bash as bashInterface
 import repro_dsl_stdlib/packages/cmake as cmakeInterface
 import packages/interfaces/busybox/repro as busyboxInterface
@@ -18,13 +19,44 @@ const
     ## reads this file from the revision of this repository it pins.
   UpdateEnvVar = "REPRO_UPDATE_CONTRIBUTION_RECORDS"
     ## `just update-contribution-records` sets it to rewrite the file.
-  CatalogSize = 227
+  CatalogSize = 228
     ## The contributions `repro.nim` declares: the five realizations the
     ## catalog started with (bash, busybox, cmake, llvm, patchelf) and the
     ## packages zah/dotfiles' Home Manager configurations install (GM8 of the
-    ## Gradual-Nix-To-Reprobuild-Migration plan), one per canonical package.
+    ## Gradual-Nix-To-Reprobuild-Migration plan), plus the reusable pwsh
+    ## realization, one per canonical package.
 
 suite "Nix provisioning contribution catalog":
+  test "pwsh consumers receive the canonical PowerShell realization":
+    # Exercise the registered catalog and the public-interface projection a
+    # consumer actually receives. A tool identity reference alone cannot make
+    # an undeclared or unrealized executable available on an action's PATH.
+    let contributions = registeredProvisioningContributions()
+    let powershell = contributions.filterIt(it.targetPackage == "pwsh")
+    require powershell.len == 1
+    let packages = registeredPackages()
+    let interfaces = packages.filterIt(it.packageName == "pwsh")
+    require interfaces.len == 1
+    check interfaces[0].executables.len == 1
+    check interfaces[0].executables[0].binaryName == "pwsh"
+    check powershell[0].targetInterfaceFingerprint ==
+      canonicalPackageInterfaceFingerprint(interfaces[0], packages)
+    check not powershell[0].developInterface
+
+    let consumer = PackageDef(packageName: "powershellConsumer", toolUses: @[
+      PackageUseDef(rawConstraint: "pwsh", packageSelector: "pwsh",
+        executableName: "pwsh")])
+    let projected = toProjectInterface(consumer, packages, contributions)
+    require projected.toolUses.len == 1
+    check projected.toolUses[0].packageSelector == "pwsh"
+    check projected.toolUses[0].executableName == "pwsh"
+    let realizations = projected.toolUses[0].nixProvisioning
+    require realizations.len == 1
+    check realizations[0].selector == "nixpkgs#powershell"
+    check realizations[0].executablePath == "bin/pwsh"
+    check realizations[0].nixpkgsRev == CanonicalNixpkgsRev
+    check realizations[0].nixpkgsNarHash == CanonicalNixpkgsNarHash
+
   test "publishes pinned contributions without redefining packages":
     let contributions = registeredProvisioningContributions()
     check contributions.len == CatalogSize
