@@ -19,6 +19,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#age",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#age",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 264
@@ -51,6 +52,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#asciinema",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#asciinema",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 271
@@ -83,6 +85,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#attic-client",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#attic-client",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 278
@@ -115,6 +118,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#awscli",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#awscli",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 285
@@ -147,6 +151,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#bash",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#bash",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 292
@@ -179,6 +184,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#bfg-repo-cleaner",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#bfg-repo-cleaner",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 299
@@ -211,6 +217,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#bitwarden-desktop",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#bitwarden-desktop",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 306
@@ -243,6 +250,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#bitwarden-cli",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#bitwarden-cli",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 313
@@ -275,6 +283,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#bottom",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#bottom",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 320
@@ -307,6 +316,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#btop",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#btop",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 327
@@ -339,6 +349,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#busybox",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#busybox",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 334
@@ -371,6 +382,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#cachix",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#cachix",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 341
@@ -403,6 +415,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#capitaine-cursors",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#capitaine-cursors",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 348
@@ -435,6 +448,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#claude-code",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#claude-code",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 355
@@ -467,6 +481,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#jetbrains.clion",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#jetbrains.clion",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 362
@@ -499,6 +514,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#cmake",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#cmake",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 369
@@ -531,6 +547,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#codex",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#codex",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 376
@@ -563,6 +580,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#coreutils",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#coreutils",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 383
@@ -595,6 +613,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#universal-ctags",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#universal-ctags",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 390
@@ -627,6 +646,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#curl",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#curl",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 397
@@ -659,6 +679,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#code-cursor",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#code-cursor",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 404
@@ -691,6 +712,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#cursor-cli",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#cursor-cli",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 411
@@ -723,6 +745,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#dbeaver-bin",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#dbeaver-bin",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 418
@@ -755,6 +778,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#dejavu_fonts",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#dejavu_fonts",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 425
@@ -787,6 +811,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#delta",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#delta",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 432
@@ -819,6 +844,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#devcontainer",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#devcontainer",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 439
@@ -851,6 +877,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#direnv",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#direnv",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 446
@@ -883,6 +910,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#discord",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#discord",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 453
@@ -915,6 +943,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#dropbox-cli",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#dropbox-cli",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 460
@@ -947,6 +976,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#dua",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#dua",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 467
@@ -979,6 +1009,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#evtest",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#evtest",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 474
@@ -1011,6 +1042,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#fd",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#fd",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 481
@@ -1043,6 +1075,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#ffmpeg",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#ffmpeg",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 488
@@ -1075,6 +1108,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#fh",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#fh",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 495
@@ -1107,6 +1141,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#figma-linux",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#figma-linux",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 502
@@ -1139,6 +1174,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#firefox",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#firefox",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 509
@@ -1171,6 +1207,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#foot",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#foot",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 516
@@ -1203,6 +1240,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#freerdp",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#freerdp",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 523
@@ -1235,6 +1273,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#frida-tools",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#frida-tools",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 530
@@ -1267,6 +1306,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#fuzzel",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#fuzzel",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 537
@@ -1299,6 +1339,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#fzf",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#fzf",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 544
@@ -1331,6 +1372,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gdb",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gdb",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 551
@@ -1363,6 +1405,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gemini-cli",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gemini-cli",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 558
@@ -1395,6 +1438,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gh",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gh",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 565
@@ -1427,6 +1471,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#ghidra",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#ghidra",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 572
@@ -1459,6 +1504,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#ghostty",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#ghostty",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 579
@@ -1491,6 +1537,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gimp",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gimp",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 586
@@ -1523,6 +1570,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#git",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#git",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 593
@@ -1555,6 +1603,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#git-lfs",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#git-lfs",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 600
@@ -1587,6 +1636,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gitkraken",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gitkraken",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 607
@@ -1619,6 +1669,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gnome-themes-extra",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gnome-themes-extra",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 614
@@ -1651,6 +1702,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gnome-tweaks",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gnome-tweaks",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 621
@@ -1683,6 +1735,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gnupg",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gnupg",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 628
@@ -1715,6 +1768,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#google-chrome",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#google-chrome",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 635
@@ -1747,6 +1801,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#google-cloud-sdk",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#google-cloud-sdk",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 642
@@ -1779,6 +1834,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gopass",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gopass",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 649
@@ -1811,6 +1867,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#gopls",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#gopls",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 656
@@ -1843,6 +1900,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#helix",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#helix",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 663
@@ -1875,6 +1933,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#htop",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#htop",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 670
@@ -1907,6 +1966,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#hyprland",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#hyprland",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 677
@@ -1939,6 +1999,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#hyprlock",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#hyprlock",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 684
@@ -1971,6 +2032,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#inetutils",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#inetutils",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 691
@@ -2003,6 +2065,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#inkscape",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#inkscape",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 698
@@ -2035,6 +2098,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#ipbt",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#ipbt",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 705
@@ -2067,6 +2131,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#temurin-bin",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#temurin-bin",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 712
@@ -2099,6 +2164,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#jjui",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#jjui",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 719
@@ -2131,6 +2197,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#jq",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#jq",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 726
@@ -2163,6 +2230,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#jujutsu",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#jujutsu",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 733
@@ -2195,6 +2263,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#just",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#just",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 740
@@ -2227,6 +2296,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#kdiff3",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#kdiff3",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 747
@@ -2259,6 +2329,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#kernelshark",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#kernelshark",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 754
@@ -2291,6 +2362,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#keybase",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#keybase",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 761
@@ -2323,6 +2395,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#kitty",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#kitty",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 768
@@ -2355,6 +2428,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#lazygit",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#lazygit",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 775
@@ -2387,6 +2461,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#ledger-live-desktop",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#ledger-live-desktop",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 782
@@ -2419,6 +2494,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#libinput",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#libinput",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 789
@@ -2451,6 +2527,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#libreoffice",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#libreoffice",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 796
@@ -2483,6 +2560,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#llvm.dev",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#llvm.dev",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 803
@@ -2515,6 +2593,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#mako",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#mako",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 810
@@ -2547,6 +2626,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#man-db",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#man-db",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 817
@@ -2579,6 +2659,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#mc",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#mc",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 824
@@ -2611,6 +2692,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#meld",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#meld",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 831
@@ -2643,6 +2725,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#mercurial",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#mercurial",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 838
@@ -2675,6 +2758,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#mitmproxy",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#mitmproxy",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 845
@@ -2707,6 +2791,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#mosh",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#mosh",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 852
@@ -2739,6 +2824,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#mutagen",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#mutagen",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 859
@@ -2771,6 +2857,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#ncdu",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#ncdu",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 866
@@ -2803,6 +2890,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#neovim",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#neovim",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 873
@@ -2835,6 +2923,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#neovim-qt",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#neovim-qt",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 880
@@ -2867,6 +2956,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts._0xproto",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts._0xproto",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 887
@@ -2899,6 +2989,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts._3270",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts._3270",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 894
@@ -2931,6 +3022,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.adwaita-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.adwaita-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 901
@@ -2963,6 +3055,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.agave",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.agave",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 908
@@ -2995,6 +3088,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.anonymice",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.anonymice",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 915
@@ -3027,6 +3121,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.arimo",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.arimo",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 922
@@ -3059,6 +3154,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.atkynson-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.atkynson-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 929
@@ -3091,6 +3187,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.aurulent-sans-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.aurulent-sans-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 936
@@ -3123,6 +3220,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.bigblue-terminal",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.bigblue-terminal",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 943
@@ -3155,6 +3253,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.bitstream-vera-sans-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.bitstream-vera-sans-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 950
@@ -3187,6 +3286,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.blex-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.blex-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 957
@@ -3219,6 +3319,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.caskaydia-cove",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.caskaydia-cove",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 964
@@ -3251,6 +3352,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.caskaydia-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.caskaydia-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 971
@@ -3283,6 +3385,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.code-new-roman",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.code-new-roman",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 978
@@ -3315,6 +3418,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.comic-shanns-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.comic-shanns-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 985
@@ -3347,6 +3451,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.commit-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.commit-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 992
@@ -3379,6 +3484,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.cousine",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.cousine",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 999
@@ -3411,6 +3517,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.d2coding",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.d2coding",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1006
@@ -3443,6 +3550,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.daddy-time-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.daddy-time-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1013
@@ -3475,6 +3583,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.dejavu-sans-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.dejavu-sans-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1020
@@ -3507,6 +3616,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.departure-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.departure-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1027
@@ -3539,6 +3649,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.droid-sans-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.droid-sans-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1034
@@ -3571,6 +3682,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.envy-code-r",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.envy-code-r",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1041
@@ -3603,6 +3715,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.fantasque-sans-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.fantasque-sans-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1048
@@ -3635,6 +3748,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.fira-code",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.fira-code",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1055
@@ -3667,6 +3781,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.fira-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.fira-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1062
@@ -3699,6 +3814,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.geist-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.geist-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1069
@@ -3731,6 +3847,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.go-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.go-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1076
@@ -3763,6 +3880,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.gohufont",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.gohufont",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1083
@@ -3795,6 +3913,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.hack",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.hack",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1090
@@ -3827,6 +3946,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.hasklug",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.hasklug",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1097
@@ -3859,6 +3979,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.heavy-data",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.heavy-data",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1104
@@ -3891,6 +4012,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.hurmit",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.hurmit",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1111
@@ -3923,6 +4045,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.im-writing",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.im-writing",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1118
@@ -3955,6 +4078,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.inconsolata",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.inconsolata",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1125
@@ -3987,6 +4111,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.inconsolata-go",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.inconsolata-go",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1132
@@ -4019,6 +4144,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.inconsolata-lgc",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.inconsolata-lgc",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1139
@@ -4051,6 +4177,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.intone-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.intone-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1146
@@ -4083,6 +4210,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.iosevka",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.iosevka",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1153
@@ -4115,6 +4243,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.iosevka-term",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.iosevka-term",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1160
@@ -4147,6 +4276,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.iosevka-term-slab",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.iosevka-term-slab",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1167
@@ -4179,6 +4309,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.jetbrains-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.jetbrains-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1174
@@ -4211,6 +4342,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.lekton",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.lekton",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1181
@@ -4243,6 +4375,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.liberation",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.liberation",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1188
@@ -4275,6 +4408,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.lilex",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.lilex",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1195
@@ -4307,6 +4441,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.martian-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.martian-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1202
@@ -4339,6 +4474,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.meslo-lg",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.meslo-lg",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1209
@@ -4371,6 +4507,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.monaspace",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.monaspace",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1216
@@ -4403,6 +4540,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.monofur",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.monofur",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1223
@@ -4435,6 +4573,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.monoid",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.monoid",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1230
@@ -4467,6 +4606,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.mononoki",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.mononoki",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1237
@@ -4499,6 +4639,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.m+",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.m+",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1244
@@ -4531,6 +4672,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.noto",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.noto",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1251
@@ -4563,6 +4705,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.open-dyslexic",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.open-dyslexic",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1258
@@ -4595,6 +4738,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.overpass",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.overpass",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1265
@@ -4627,6 +4771,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.profont",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.profont",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1272
@@ -4659,6 +4804,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.proggy-clean-tt",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.proggy-clean-tt",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1279
@@ -4691,6 +4837,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.recursive-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.recursive-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1286
@@ -4723,6 +4870,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.roboto-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.roboto-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1293
@@ -4755,6 +4903,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.sauce-code-pro",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.sauce-code-pro",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1300
@@ -4787,6 +4936,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.shure-tech-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.shure-tech-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1307
@@ -4819,6 +4969,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.space-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.space-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1314
@@ -4851,6 +5002,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.symbols-only",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.symbols-only",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1321
@@ -4883,6 +5035,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.terminess-ttf",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.terminess-ttf",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1328
@@ -4915,6 +5068,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.tinos",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.tinos",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1335
@@ -4947,6 +5101,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.ubuntu",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.ubuntu",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1342
@@ -4979,6 +5134,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.ubuntu-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.ubuntu-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1349
@@ -5011,6 +5167,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.ubuntu-sans",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.ubuntu-sans",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1356
@@ -5043,6 +5200,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.victor-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.victor-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1363
@@ -5075,6 +5233,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nerd-fonts.zed-mono",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nerd-fonts.zed-mono",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1370
@@ -5107,6 +5266,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#netbird",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#netbird",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1377
@@ -5139,6 +5299,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#netbird-ui",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#netbird-ui",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1384
@@ -5171,6 +5332,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nimlangserver",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nimlangserver",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1391
@@ -5203,6 +5365,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nix-tree",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nix-tree",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1398
@@ -5235,6 +5398,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nix-zsh-completions",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nix-zsh-completions",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1405
@@ -5267,6 +5431,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nss",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nss",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1412
@@ -5299,6 +5464,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#nurl",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#nurl",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1419
@@ -5331,6 +5497,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#oh-my-zsh",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#oh-my-zsh",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1426
@@ -5363,6 +5530,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#opencode",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#opencode",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1433
@@ -5395,6 +5563,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#ovh-ttyrec",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#ovh-ttyrec",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1440
@@ -5427,6 +5596,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#patchelf",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#patchelf",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1447
@@ -5459,6 +5629,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#pgadmin4",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#pgadmin4",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1454
@@ -5491,6 +5662,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#pinentry-curses",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#pinentry-curses",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1461
@@ -5523,6 +5695,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#psmisc",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#psmisc",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1468
@@ -5555,6 +5728,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#powershell",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#powershell",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1475
@@ -5587,6 +5761,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#qemu-user",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#qemu-user",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1482
@@ -5619,6 +5794,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#python312Packages.qiling",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#python312Packages.qiling",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1489
@@ -5651,6 +5827,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#radare2",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#radare2",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1496
@@ -5683,6 +5860,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#realvnc-vnc-viewer",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#realvnc-vnc-viewer",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1503
@@ -5715,6 +5893,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#remmina",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#remmina",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1510
@@ -5747,6 +5926,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#repomix",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#repomix",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1517
@@ -5779,6 +5959,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#ripgrep",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#ripgrep",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1524
@@ -5811,6 +5992,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#rr",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#rr",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1531
@@ -5843,6 +6025,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#rust-analyzer",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#rust-analyzer",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1538
@@ -5875,6 +6058,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#jetbrains.rust-rover",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#jetbrains.rust-rover",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1545
@@ -5907,6 +6091,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#shared-mime-info",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#shared-mime-info",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1552
@@ -5939,6 +6124,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#showmethekey",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#showmethekey",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1559
@@ -5971,6 +6157,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#signal-desktop",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#signal-desktop",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1566
@@ -6003,6 +6190,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#slack",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#slack",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1573
@@ -6035,6 +6223,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#spotify",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#spotify",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1580
@@ -6067,6 +6256,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#sqlitebrowser",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#sqlitebrowser",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1587
@@ -6099,6 +6289,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#sshfs",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#sshfs",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1594
@@ -6131,6 +6322,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#starship",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#starship",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1601
@@ -6163,6 +6355,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#steam",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#steam",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1608
@@ -6195,6 +6388,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#swaylock",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#swaylock",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1615
@@ -6227,6 +6421,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#swaynotificationcenter",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#swaynotificationcenter",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1622
@@ -6259,6 +6454,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#telegram-desktop",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#telegram-desktop",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1629
@@ -6291,6 +6487,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#xfce.thunar",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#xfce.thunar",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1636
@@ -6323,6 +6520,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#thunderbird",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#thunderbird",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1643
@@ -6355,6 +6553,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#tigervnc",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#tigervnc",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1650
@@ -6387,6 +6586,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#tilix",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#tilix",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1657
@@ -6419,6 +6619,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#tmux",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#tmux",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1664
@@ -6451,6 +6652,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#tmuxinator",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#tmuxinator",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1671
@@ -6483,6 +6685,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#tor",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#tor",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1678
@@ -6515,6 +6718,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#trace-cmd",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#trace-cmd",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1685
@@ -6547,6 +6751,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#transmission_4-gtk",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#transmission_4-gtk",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1692
@@ -6564,7 +6769,7 @@
     },
     {
       "targetPackage": "tree-sitter",
-      "targetInterfaceFingerprint": "615a1cf7519f1779f345957e62b58621bd89d931f5877010f49293815d977f11",
+      "targetInterfaceFingerprint": "882b1e92da51ab840f15eb1d9b334b8738094cf4086fd2cebfea4664e065525e",
       "contributor": "github:metacraft-labs/reprobuild-nix-packages",
       "developInterface": false,
       "nixProvisioning": [
@@ -6579,6 +6784,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#tree-sitter",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#tree-sitter",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1699
@@ -6611,6 +6817,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#util-linux",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#util-linux",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1706
@@ -6643,6 +6850,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#valgrind",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#valgrind",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1713
@@ -6675,6 +6883,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#viber",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#viber",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1720
@@ -6707,6 +6916,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#vim",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#vim",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1727
@@ -6739,6 +6949,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#vlc",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#vlc",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1734
@@ -6771,6 +6982,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#vscode",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#vscode",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1741
@@ -6803,6 +7015,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#waybar",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#waybar",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1748
@@ -6835,6 +7048,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#wev",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#wev",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1755
@@ -6867,6 +7081,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#wget",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#wget",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1762
@@ -6899,6 +7114,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#wireshark-qt",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#wireshark-qt",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1769
@@ -6931,6 +7147,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#wofi",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#wofi",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1776
@@ -6963,6 +7180,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#xclip",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#xclip",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1783
@@ -6995,6 +7213,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#xdg-desktop-portal",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#xdg-desktop-portal",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1790
@@ -7027,6 +7246,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#xdg-desktop-portal-hyprland",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#xdg-desktop-portal-hyprland",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1797
@@ -7059,6 +7279,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#xwayland",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#xwayland",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1804
@@ -7091,6 +7312,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#yq",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#yq",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1811
@@ -7123,6 +7345,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#zed-editor",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#zed-editor",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1818
@@ -7155,6 +7378,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#zellij",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#zellij",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1825
@@ -7187,6 +7411,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#zoom-us",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#zoom-us",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1832
@@ -7219,6 +7444,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#zoxide",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#zoxide",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1839
@@ -7251,6 +7477,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#zplug",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#zplug",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1846
@@ -7283,6 +7510,7 @@
           "nixpkgsNarHash": "sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=",
           "packageId": "nixpkgs#zsh",
           "lockIdentity": "github:NixOS/nixpkgs/addf7cf5f383a3101ecfba091b98d0a1263dc9b8?narHash=sha256-hM20uyap1a0M9d344I692r+ik4gTMyj60cQWO+hAYP8=#zsh",
+          "version": "",
           "location": {
             "file": "repro.nim",
             "line": 1853

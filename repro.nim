@@ -1694,7 +1694,7 @@ provisioningFor "transmission":
     nixpkgsNarHash = CanonicalNixpkgsNarHash
 
 provisioningFor "tree-sitter":
-  interfaceFingerprint "615a1cf7519f1779f345957e62b58621bd89d931f5877010f49293815d977f11"
+  interfaceFingerprint "882b1e92da51ab840f15eb1d9b334b8738094cf4086fd2cebfea4664e065525e"
   contributor "github:metacraft-labs/reprobuild-nix-packages"
   nixPackage "nixpkgs#tree-sitter", executablePath = "bin/tree-sitter",
     nixpkgsRev = CanonicalNixpkgsRev,
