@@ -257,6 +257,11 @@ import "../reprobuild-packages/packages/interfaces/zoom/repro" as zoomInterface
 import "../reprobuild-packages/packages/interfaces/zoxide/repro" as zoxideInterface
 import "../reprobuild-packages/packages/interfaces/zplug/repro" as zplugInterface
 import "../reprobuild-packages/packages/interfaces/zsh/repro" as zshInterface
+import "../reprobuild-packages/packages/interfaces/nil/repro" as nilInterface
+import "../reprobuild-packages/packages/interfaces/packer/repro" as packerInterface
+import "../reprobuild-packages/packages/interfaces/sshpass/repro" as sshpassInterface
+import "../reprobuild-packages/packages/interfaces/tart/repro" as tartInterface
+import repro_dsl_stdlib/packages/nim as nimInterface
 
 provisioningFor "age":
   interfaceFingerprint "a6c791c8967221fe4c4cca4b8f157b05c46070b0382117a7840693beba206de7"
@@ -588,7 +593,7 @@ provisioningFor "gimp":
     nixpkgsNarHash = CanonicalNixpkgsNarHash
 
 provisioningFor "git":
-  interfaceFingerprint "89d1f053f479cc8343138c26a839e5a6bf079551bdd3a6db67764472493b2ae2"
+  interfaceFingerprint "ac92040ee037c5fa52b9b6961b2dc16f1c4a7fe6c002f41c1af1408520bed564"
   contributor "github:metacraft-labs/reprobuild-nix-packages"
   nixPackage "nixpkgs#git", executablePath = "bin/git",
     nixpkgsRev = CanonicalNixpkgsRev,
@@ -1859,3 +1864,38 @@ package reprobuildNixPackages:
     task "test",
       command = "nim c -r --nimcache:build/nimcache-nix-catalog tests/test_nix_catalog.nim",
       description = "Validate the Nix contribution catalog"
+
+provisioningFor "nil":
+  interfaceFingerprint "39a75e64a8d576dc7eef1fc9b33f643b2e424f1d0e4b7f1672176bb52b472ec7"
+  contributor "github:metacraft-labs/reprobuild-nix-packages"
+  nixPackage "nixpkgs#nil", executablePath = "bin/nil",
+    nixpkgsRev = CanonicalNixpkgsRev,
+    nixpkgsNarHash = CanonicalNixpkgsNarHash
+
+provisioningFor "nim":
+  interfaceFingerprint "98c73af5d1bbaa96d4647a6f681766297f0826c560418450bf7332022f6a00cb"
+  contributor "github:metacraft-labs/reprobuild-nix-packages"
+  nixPackage "nixpkgs#nim", executablePath = "bin/nim",
+    nixpkgsRev = CanonicalNixpkgsRev,
+    nixpkgsNarHash = CanonicalNixpkgsNarHash
+
+provisioningFor "packer":
+  interfaceFingerprint "b1a1dac38fedf03bafa397dbf985d0b18c411895577eaf91ccb1983c72fd0573"
+  contributor "github:metacraft-labs/reprobuild-nix-packages"
+  nixPackage "nixpkgs#packer", executablePath = "bin/packer",
+    nixpkgsRev = CanonicalNixpkgsRev,
+    nixpkgsNarHash = CanonicalNixpkgsNarHash
+
+provisioningFor "sshpass":
+  interfaceFingerprint "d53c867b9bc914a7535e3925085aa8d3b4bffcaf1bb0f19e09eb4488a97e7242"
+  contributor "github:metacraft-labs/reprobuild-nix-packages"
+  nixPackage "nixpkgs#sshpass", executablePath = "bin/sshpass",
+    nixpkgsRev = CanonicalNixpkgsRev,
+    nixpkgsNarHash = CanonicalNixpkgsNarHash
+
+provisioningFor "tart":
+  interfaceFingerprint "f4532b99bda78e1f8e93fe15ed34ddfecb76e83e9fc34d7eb15d1c6376da776e"
+  contributor "github:metacraft-labs/reprobuild-nix-packages"
+  nixPackage "nixpkgs#tart", executablePath = "bin/tart",
+    nixpkgsRev = CanonicalNixpkgsRev,
+    nixpkgsNarHash = CanonicalNixpkgsNarHash

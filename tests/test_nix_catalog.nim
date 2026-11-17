@@ -1,4 +1,4 @@
-import std/[json, os, sequtils, strutils, unittest]
+import std/[algorithm, json, os, sequtils, strutils, unittest]
 
 import repro_interface_artifacts
 import repro_interface_artifacts/contribution_records
@@ -19,7 +19,7 @@ const
     ## reads this file from the revision of this repository it pins.
   UpdateEnvVar = "REPRO_UPDATE_CONTRIBUTION_RECORDS"
     ## `just update-contribution-records` sets it to rewrite the file.
-  CatalogSize = 228
+  CatalogSize = 233
     ## The contributions `repro.nim` declares: the five realizations the
     ## catalog started with (bash, busybox, cmake, llvm, patchelf) and the
     ## packages zah/dotfiles' Home Manager configurations install (GM8 of the
@@ -78,8 +78,13 @@ suite "Nix provisioning contribution catalog":
       targets.add contribution.targetPackage
     check targets.deduplicate().len == targets.len
     let packages = registeredPackages()
-    # Every contribution's target, plus this catalog's own package.
-    check packages.len == CatalogSize + 1
+    # Every contribution's target, plus this catalog's own package, plus the
+    # packages the stdlib `nim` module registers by importing their modules
+    # (`nim` is contributed here, and importing it is how its interface is
+    # registered); none of those three is contributed.
+    check packages.len == CatalogSize + 1 + 3
+    check packages.mapIt(it.packageName).filterIt(it notin targets).sorted() ==
+      @["install-file", "reprobuildNixPackages", "sh", "zig"]
     for contribution in contributions:
       let targets = packages.filterIt(
         it.packageName == contribution.targetPackage)
