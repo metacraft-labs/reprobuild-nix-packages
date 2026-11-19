@@ -42,10 +42,10 @@ import "../reprobuild-packages/packages/interfaces/btop/repro" as btopInterface
 import "../reprobuild-packages/packages/interfaces/busybox/repro" as busyboxInterface
 import repro_dsl_stdlib/packages/cachix as cachixInterface
 import "../reprobuild-packages/packages/interfaces/capitaine-cursors/repro" as capitaineCursorsInterface
-import repro_dsl_stdlib/packages/claude_code as claudeCodeInterface
+import "../reprobuild-llm-agent-packages/packages/interfaces/claude-code/repro" as claudeCodeInterface
 import "../reprobuild-packages/packages/interfaces/clion/repro" as clionInterface
 import repro_dsl_stdlib/packages/cmake as cmakeInterface
-import "../reprobuild-packages/packages/interfaces/codex/repro" as codexInterface
+import "../reprobuild-llm-agent-packages/packages/interfaces/codex/repro" as codexInterface
 import "../reprobuild-packages/packages/interfaces/coreutils/repro" as coreutilsInterface
 import repro_dsl_stdlib/packages/ctags as ctagsInterface
 import repro_dsl_stdlib/packages/curl as curlInterface
@@ -355,7 +355,7 @@ provisioningFor "capitaine-cursors":
     nixpkgsNarHash = CanonicalNixpkgsNarHash
 
 provisioningFor "claude-code":
-  interfaceFingerprint "ed0d2908ad9553d858c1b4c8ed572d8196e0d751a72436653119e00fbd801346"
+  interfaceFingerprint "31fbc6e0b04645142f52d7c1237134929e9a015ec9c50ebed5dbe492d5a91c7e"
   contributor "github:metacraft-labs/reprobuild-nix-packages"
   nixPackage "nixpkgs#claude-code", executablePath = "bin/claude",
     nixpkgsRev = CanonicalNixpkgsRev,
@@ -376,7 +376,7 @@ provisioningFor "cmake":
     nixpkgsNarHash = CanonicalNixpkgsNarHash
 
 provisioningFor "codex":
-  interfaceFingerprint "5f10bc6323dc999df7dd609ac35ac98be8d9086598198a17d228f6de96092d0e"
+  interfaceFingerprint "fa936c46615d714d4efdaec268a339ef49b5051208a9d6bb9b656247db2615c8"
   contributor "github:metacraft-labs/reprobuild-nix-packages"
   nixPackage "nixpkgs#codex", executablePath = "bin/codex",
     nixpkgsRev = CanonicalNixpkgsRev,

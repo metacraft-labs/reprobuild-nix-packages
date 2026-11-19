@@ -433,7 +433,7 @@
     },
     {
       "targetPackage": "claude-code",
-      "targetInterfaceFingerprint": "ed0d2908ad9553d858c1b4c8ed572d8196e0d751a72436653119e00fbd801346",
+      "targetInterfaceFingerprint": "31fbc6e0b04645142f52d7c1237134929e9a015ec9c50ebed5dbe492d5a91c7e",
       "contributor": "github:metacraft-labs/reprobuild-nix-packages",
       "developInterface": false,
       "nixProvisioning": [
@@ -532,7 +532,7 @@
     },
     {
       "targetPackage": "codex",
-      "targetInterfaceFingerprint": "5f10bc6323dc999df7dd609ac35ac98be8d9086598198a17d228f6de96092d0e",
+      "targetInterfaceFingerprint": "fa936c46615d714d4efdaec268a339ef49b5051208a9d6bb9b656247db2615c8",
       "contributor": "github:metacraft-labs/reprobuild-nix-packages",
       "developInterface": false,
       "nixProvisioning": [
